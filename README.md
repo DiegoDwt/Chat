@@ -1,2 +1,2 @@
 # Chat
-Servidor-Cliente, utilizando Socket e Singleton
+Chat Servidor-Cliente, utilizando Socket e Singleton
